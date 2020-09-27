@@ -1,6 +1,6 @@
 variable "project_id" {
   type = string
-  default = "zonedetest"
+  default = "carbon-scene-290623"
 }
 
 variable "zone"{
